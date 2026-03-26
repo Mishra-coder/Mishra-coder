@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devendra.mishra@adypu.edu.in">
-    <img src="https://img.shields.io/badge/College%20Email-0078D4?logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Email-0078D4?logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://my-portfolio-henna-eight-54.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
