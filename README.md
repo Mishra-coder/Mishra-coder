@@ -5,16 +5,13 @@
   <a href="https://www.linkedin.com/in/devendra-mishra-b9613b339/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:devendramishra495@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
   <a href="mailto:devendra.mishra@adypu.edu.in">
     <img src="https://img.shields.io/badge/College%20Email-0078D4?logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://my-portfolio-henna-eight-54.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Mishra-coder/">
+  <a href="https://leetcode.com/u/Devendra870/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
   </a>
 </p>
