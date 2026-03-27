@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Devendra Mishra</h1>
-<h3 align="center">B.Tech CSE (AI & ML) · Newton School of Technology, Pune</h3>
+[![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Devendra's%20GitHub&textBg=false&reversal=false&fontColor=black)](https://github.com/Mishra-coder)
 
+
+<h3 align="center">B.Tech CSE (AI & ML) · Newton School of Technology, Pune</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/devendra-mishra-b9613b339/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -19,7 +20,6 @@
 ---
 
 ### 💻 Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
