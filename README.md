@@ -1,7 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Devendra's%20GitHub&textBg=false&reversal=false&fontColor=black)](https://github.com/Mishra-coder)
 
-
-<h3 align="center">B.Tech CSE (AI & ML) · Newton School of Technology, Pune</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/devendra-mishra-b9613b339/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -33,6 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mishra-coder&theme=dark&hide_border=true&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishra-coder&theme=dark&hide_border=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishra-coder&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="135" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mishra-coder&theme=dark&hide_border=true" height="135" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishra-coder&theme=dark&hide_border=true&layout=compact" height="135" />
 </p>
